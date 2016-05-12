@@ -14,3 +14,7 @@ Features:-
 1.Detects Alphabets upto 'O'.
 2.Thumbs up is 'P' here which means space.
 3.Gesture five is 'Q' which means to remove the last wrong word.
+
+
+
+youtube video link - https://www.youtube.com/watch?v=RuOMUK76-0Q&feature=youtu.be
